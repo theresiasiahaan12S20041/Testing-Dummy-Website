@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swag Labs Testing", "Swag Labs Testing\Swag Labs Testing.csproj", "{7525ED7D-1ABC-46D6-8A09-5C4AE0CBF6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7525ED7D-1ABC-46D6-8A09-5C4AE0CBF6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7525ED7D-1ABC-46D6-8A09-5C4AE0CBF6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7525ED7D-1ABC-46D6-8A09-5C4AE0CBF6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7525ED7D-1ABC-46D6-8A09-5C4AE0CBF6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99F23EFE-48AD-4853-92FD-4589446492D3}
+	EndGlobalSection
+EndGlobal
