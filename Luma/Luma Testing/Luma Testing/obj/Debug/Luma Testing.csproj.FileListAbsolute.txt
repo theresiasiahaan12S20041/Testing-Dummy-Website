@@ -1,0 +1,43 @@
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\selenium-manager\linux\selenium-manager
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\selenium-manager\macos\selenium-manager
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\NUnit3.TestAdapter.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\NUnit3.TestAdapter.pdb
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\nunit.engine.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\nunit.engine.api.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\nunit.engine.core.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\testcentric.engine.metadata.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\Luma Testing.exe.config
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\Luma Testing.exe
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\Luma Testing.pdb
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\nunit.framework.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\nunit.framework.legacy.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Buffers.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Memory.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Numerics.Vectors.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Text.Encodings.Web.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Text.Json.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.ValueTuple.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\WebDriver.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\nunit.framework.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\nunit.framework.legacy.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Buffers.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Memory.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Numerics.Vectors.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Text.Encodings.Web.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Text.Json.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\System.ValueTuple.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\WebDriver.xml
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\obj\Debug\Luma Testing.csproj.AssemblyReference.cache
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\obj\Debug\Luma Testing.csproj.CoreCompileInputs.cache
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\obj\Debug\Luma Testing.csproj.CopyComplete
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\obj\Debug\Luma Testing.exe
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\obj\Debug\Luma Testing.pdb
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\WebDriver.Support.dll
+D:\learn qa\Testing-Dummy-Website\Luma\Luma Testing\Luma Testing\bin\Debug\WebDriver.Support.xml
