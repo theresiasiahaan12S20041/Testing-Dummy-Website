@@ -6,7 +6,7 @@ using System;
 using System.Threading;
 
 
-namespace Selenium_Automation
+namespace LumaTesting
 {
     class Program
     {
@@ -45,7 +45,7 @@ namespace Selenium_Automation
 
             // Fills in the "Email" field
             IWebElement EmailField = driver.FindElement(By.Id("email_address"));
-            EmailField.SendKeys("dummyytesttwebsitee1@gmail.com");
+            EmailField.SendKeys("dummyytesttwebsitee01@gmail.com");
 
             // Fills in the "Password" field
             IWebElement PasswordField = driver.FindElement(By.Id("password"));
@@ -77,7 +77,7 @@ namespace Selenium_Automation
 
             // Fills in the "Email" field
             IWebElement EmailField = driver.FindElement(By.Id("email_address"));
-            EmailField.SendKeys("dummyytesttwebsitee.com");
+            EmailField.SendKeys("dummyytesttwebsitee01.com");
 
             // Fills in the "Password" field
             IWebElement PasswordField = driver.FindElement(By.Id("password"));
@@ -119,7 +119,7 @@ namespace Selenium_Automation
 
             // Fills in the "Email" field
             IWebElement EmailField = driver.FindElement(By.Id("email_address"));
-            EmailField.SendKeys("dummyytesttwebsitee1@gmail.com");
+            EmailField.SendKeys("dummyytesttwebsitee01@gmail.com");
 
             // Fills in the "Password" field
             IWebElement PasswordField = driver.FindElement(By.Id("password"));
@@ -161,7 +161,7 @@ namespace Selenium_Automation
 
             // Fills in the "Email" field
             IWebElement EmailField = driver.FindElement(By.Id("email_address"));
-            EmailField.SendKeys("dummyytesttwebsitee1@gmail.com");
+            EmailField.SendKeys("dummyytesttwebsitee01@gmail.com");
 
             // Fills in the "Password" field
             IWebElement PasswordField = driver.FindElement(By.Id("password"));
@@ -195,7 +195,7 @@ namespace Selenium_Automation
 
             // Fills in the "Email" field
             IWebElement EmailField = driver.FindElement(By.Id("email"));
-            EmailField.SendKeys("dummyytesttwebsitee1@gmail.com");
+            EmailField.SendKeys("dummyytesttwebsitee01@gmail.com");
 
             // Fills in the "Password" field
             IWebElement PasswordField = driver.FindElement(By.Id("pass"));
@@ -401,7 +401,7 @@ namespace Selenium_Automation
             ViewAndEditCart.Click();
 
             // Edit the "Qty" item
-            IWebElement Qty = driver.FindElement(By.Id("cart-427337-qty"));
+            IWebElement Qty = driver.FindElement(By.Id("cart-520932-qty"));
             Qty.Clear();
             Qty.SendKeys("5");
 
@@ -448,7 +448,7 @@ namespace Selenium_Automation
             ReorderHyperlink.Click();
 
             // Change the "Qty"
-            IWebElement Qty = driver.FindElement(By.Id("cart-427337-qty"));
+            IWebElement Qty = driver.FindElement(By.Id("cart-520959-qty"));
             Qty.Clear();
             Qty.SendKeys("10");
 
@@ -478,8 +478,23 @@ namespace Selenium_Automation
             PlaceOrder.Click();
         }
 
+        [Test] //TSCS14
+        public void Logout()
+        {
+            // Call the "SignInTest" method
+            SignInTest();
 
-        [TearDown]
+            // Click the drop-down
+            IWebElement DropDown = driver.FindElement(By.XPath("/html/body/div[2]/header/div[1]/div/ul/li[2]/span/button"));
+            DropDown.Click();
+
+            // Click the "Sign Out" menu
+            IWebElement SignOut = driver.FindElement(By.XPath("/html/body/div[2]/header/div[1]/div/ul/li[2]/div/ul/li[3]/a"));
+            SignOut.Click();
+        }
+
+
+        /*[TearDown]
         public void CloseTest()
         {
             // Break for 5 sec.
@@ -487,6 +502,6 @@ namespace Selenium_Automation
 
             // Close the browser
             driver.Quit();
-        }
+        }*/
     }
 }
