@@ -5,7 +5,7 @@ using OpenQA.Selenium.Support.UI;
 using System;
 using System.Threading;
 
-namespace Selenium_Automation
+namespace Swag_Labs_Testing
 {
     class Program
     {
@@ -163,8 +163,10 @@ namespace Selenium_Automation
             IWebElement MenuBar = driver.FindElement(By.Id("react-burger-menu-btn"));
             MenuBar.Click();
 
+            Thread.Sleep(10000);
+
             // Click the "Logout" menu
-            IWebElement LogoutMenu = driver.FindElement(By.XPath("//*[@id=\"logout_sidebar_link\"]"));
+            IWebElement LogoutMenu = driver.FindElement(By.Id("logout_sidebar_link"));
             LogoutMenu.Click();
         }
 
