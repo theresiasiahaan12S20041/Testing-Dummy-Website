@@ -41,7 +41,7 @@ namespace AutomationExercise
 
             // Fills in the "Email Address" field on 'New User Signup!' space
             IWebElement EmailAddress = driver.FindElement(By.XPath("//*[@id=\"form\"]/div/div/div[3]/div/form/input[3]"));
-            EmailAddress.SendKeys("dummytestxxx@gmail.com");
+            EmailAddress.SendKeys("dummytestxxxx@gmail.com");
 
             // Click the "Signup" button
             IWebElement SignUpButton = driver.FindElement(By.XPath("//*[@id=\"form\"]/div/div/div[3]/div/form/button"));
@@ -125,7 +125,7 @@ namespace AutomationExercise
 
             // Fills in the "Email Address" field on 'New User Signup!' space
             IWebElement EmailAddress = driver.FindElement(By.XPath("//*[@id=\"form\"]/div/div/div[3]/div/form/input[3]"));
-            EmailAddress.SendKeys("dummytestxxx@gmail.com");
+            EmailAddress.SendKeys("dummytestxxxx@gmail.com");
 
             // Click the "Signup" button
             IWebElement SignUpButton = driver.FindElement(By.XPath("//*[@id=\"form\"]/div/div/div[3]/div/form/button"));
@@ -151,7 +151,7 @@ namespace AutomationExercise
 
             // Fills in the “Email Address” field
             IWebElement EmailAddress = driver.FindElement(By.XPath("//*[@id=\"form\"]/div/div/div[1]/div/form/input[2]"));
-            EmailAddress.SendKeys("dummytestxxx@gmail.com");
+            EmailAddress.SendKeys("dummytestxxxx@gmail.com");
 
             // Fills in the “Password” field
             IWebElement Password = driver.FindElement(By.XPath("//*[@id=\"form\"]/div/div/div[1]/div/form/input[3]"));
@@ -339,6 +339,9 @@ namespace AutomationExercise
             // Call the "LoginSucc" method
             LoginSucc();
 
+            // Call the "AddItemToCart
+            AddItemToCart();
+
             // Click the "Cart" menu
             IWebElement Cart = driver.FindElement(By.XPath("//*[@id=\"header\"]/div/div/div/div[2]/div/ul/li[3]/a"));
             Cart.Click();
@@ -389,6 +392,8 @@ namespace AutomationExercise
             // Print the error message
             Console.WriteLine("Actual message text is: " + ActualSuccessMessageText);
             Console.WriteLine("Expected message text is: " + ExpectedSuccessMessageText);
+
+            Thread.Sleep(50000);
 
             // Click the "Continue" button
             IWebElement ContinueButton = driver.FindElement(By.XPath("//*[@id=\"form\"]/div/div/div/div/a"));
