@@ -4,8 +4,11 @@ This repository contains a structured collection of automation test cases develo
 Each project folder includes:
 
 🔗 A link to the dummy website under test
+
 📄 The test scenario documentation (PDF)
+
 💻 The Selenium C# automation scripts
+
 
 Websites Tested:
 - https://www.saucedemo.com/
